@@ -1,3 +1,3 @@
 # Pambamarca research project repository
 
-under development....
+Under development. Pending revision and acceptance to complete it.
