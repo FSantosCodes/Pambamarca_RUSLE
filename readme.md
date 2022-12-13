@@ -1,3 +1,3 @@
-# Pambamarca research project reopsitory
+# Pambamarca research project repository
 
 under development....
