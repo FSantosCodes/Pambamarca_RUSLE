@@ -26,8 +26,8 @@ and 3.2% of their analyzed areas. The proposed methodology allowed us to observe
 
 
 ![DJI_0741](https://user-images.githubusercontent.com/31245421/207487371-4f253e37-b095-4ea4-a80e-fabacfbc892f.JPG)
-Panoramic view of Celda Pucara obtained from UAV during field work. Creadits: Santos & Calle, 2022.
+Panoramic view of Celda Pucara obtained from UAV during field work. Credits: Santos & Calle, 2022.
 ![0026](https://user-images.githubusercontent.com/31245421/207487038-8dd5ab40-d264-475b-99be-84b5ed618928.JPG)
 Geophoto acquired with a GoPro camera attached to a vehicle to verify erosion sites. Credits: Santos & Calle, 2022.
 ![S1](https://user-images.githubusercontent.com/31245421/207488022-20d51d68-cd27-4376-9780-adc4321f1ecd.jpg)
-Stream power index derived for the Pingulmí Pucaras with different digital elevation models (SRTM, ASTER DEM and UAV) 
+Stream power index derived for the Pingulmí Pucaras with different digital elevation models (SRTM, ASTER DEM and UAV). Credits: Santos et al., 2023.
